@@ -1,12 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c2f3cec-41da-4c17-bc5c-749a55351933" name="Default Changelist" comment="">
+    <list default="true" id="72923fc0-de63-42d4-8a16-1ab33a7d1789" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/6_Bank/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Bank/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Count/Doc2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Count/Document 1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceOccupied/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpaceOccupied/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpaceOccupied/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/.idea/Projet PM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/.idea/5Shapes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/wording_from_github.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/.idea/SpaceOccupied.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/blocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/bowls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/conditions_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/data/file_ops2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/download_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/file_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/files_read.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/lists_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/out_list.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/space_occupied.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/string_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/string_vars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/tuples_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/Lessons/variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpaceOccupied/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/.idea/StockData.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/Data/GOOG.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/Data/IBM.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/Data/MSFT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/OutputData/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/OutputData/output_panda.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/panda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockData/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/.idea/WordCount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordCount/text.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +85,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1rkpiB53HrNtIuQp2W5uz0k3GPh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1sywgila92wEr4vYolzZCW07M82" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,19 +101,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.New">
+    <configuration name="New" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Bank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Bank/New.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpaceOccupied" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Bank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpaceOccupied/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Bank/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,16 +145,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="panda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StockData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Bank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StockData/panda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Bank/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Bank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Bank/test_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,34 +187,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SpaceOccupied" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Bank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpaceOccupied/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StockData" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StockData/tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Bank/test_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,22 +210,22 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.New" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.panda" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c2f3cec-41da-4c17-bc5c-749a55351933" name="Default Changelist" comment="" />
-      <created>1619530066777</created>
+      <changelist id="72923fc0-de63-42d4-8a16-1ab33a7d1789" name="Default Changelist" comment="" />
+      <created>1621858249502</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619530066777</updated>
+      <updated>1621858249502</updated>
     </task>
     <servers />
   </component>
@@ -144,9 +245,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/StockData/panda.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/6_Bank/main.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
