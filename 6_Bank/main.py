@@ -67,6 +67,13 @@ class Bank:
         return a
 
     def transfer(self, from_acc_id, to_acc_id, amount):
+        list_of_id = []
+        for account in self.account_list:
+            list_of_id.append(account.id)
+        # check if the account in the bank
+        if (not from_acc_id in list_of_id) or (not to_acc_id in list_of_id):
+            raise AccountIsNotInTheBank("The account is not in the bank")
+
         for account in self.account_list:
             if account.id == from_acc_id:
                 account.charge(amount)
@@ -91,6 +98,9 @@ class InsufficientBalanceException(BankException):
     pass
 
 class MissingTypeOfAccount(Exception):
+    pass
+
+class AccountIsNotInTheBank(Exception):
     pass
 
 
@@ -160,4 +170,12 @@ print(a6)
 print(a8)
 
 print(bank)
+
+
+# This should not work because the customer is not in the bank.
+#c10=Customer("Audrey","Bernier")
+#a10=SavingsAccount(c10)
+#print(a10._balance)
+#bank.transfer(a10.id,a6.id,100)
+#print(a10)
 
